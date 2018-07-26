@@ -28,16 +28,24 @@ Will use [Homebrew](https://brew.sh) package manager for installations:
 
 Planned & completed projects
 
-* Dot
+* Shell
+    * vim
 * Git(hub)
-* Latex
-* Markdown
 * Python
+    * Pandas
+    * scikit-learn
     * Jupyter
 * Scala
     * sbt
+    * maven
     * gradle
         * groovy
-* Shell
 * Spark
+    * SQL
+    * MLlib
     * zeppelin (databricks)
+* regex
+* Documentation
+    * Markdown
+    * Latex
+    * Dot
