@@ -1,15 +1,22 @@
-# <Project Name>
+# SBT Scala Build
 
-## Why <Project>?
+## Why sbt?
 
 ## Links to source / documentations
 
+https://www.scala-sbt.org
+
 ## Environment Setup
+
+```bash
+brew install sbt
+```
 
 ## Hello, World!
 
 ## Just the basics
 
-## Cheat sheet
-
-View the <project> cheat sheet [here]().
+sbt about
+sbt compile
+sbt run
+sbt test
